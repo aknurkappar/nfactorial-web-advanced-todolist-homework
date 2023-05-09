@@ -1,0 +1,7 @@
+.add-task-form{
+    width: 245px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-content: space-between;
+}
